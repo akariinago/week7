@@ -20,7 +20,7 @@
    	 return implode("", $work_array);
 	 }
 
-/*//ハッシュ化する	 
+/*	 
 	  if (isset($_GET['message']))
         {
             $str = $_GET['message'];
