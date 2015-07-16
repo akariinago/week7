@@ -12,8 +12,8 @@
 	$others = array("...", "!!", ":)", "??", ",");
 	$total_array = array($verb, $noun, $adjective, $animal, $name, $adverb, $exclaimation, $others);
 
-	    $speech = array('verb', 'noun', 'adjective', 'animal', 'name', 'adverb', 'exclaimation');
-	    $flag=0;
+	$speech = array('verb', 'noun', 'adjective', 'animal', 'name', 'adverb', 'exclaimation');
+	$flag=0;
 
          if (isset($_GET['pos']))
         {   
